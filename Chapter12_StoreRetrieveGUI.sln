@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter12_SayingGUI", "Chapter12_SayingGUI.csproj", "{87C80B3B-1CC1-4BDB-B5E7-AACCD6377D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C80B3B-1CC1-4BDB-B5E7-AACCD6377D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C80B3B-1CC1-4BDB-B5E7-AACCD6377D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C80B3B-1CC1-4BDB-B5E7-AACCD6377D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C80B3B-1CC1-4BDB-B5E7-AACCD6377D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0CAAF4-6F27-4414-B1FD-1EE9F8793AAC}
+	EndGlobalSection
+EndGlobal

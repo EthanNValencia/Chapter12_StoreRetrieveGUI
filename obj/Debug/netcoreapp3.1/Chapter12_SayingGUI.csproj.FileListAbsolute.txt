@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.exe
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.deps.json
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.runtimeconfig.json
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.runtimeconfig.dev.json
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.dll
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\bin\Debug\netcoreapp3.1\Chapter12_SayingGUI.pdb
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.Form1.resources
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.dll
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.pdb
+C:\Users\Ethan\source\repos\Chapter12_SayingGUI\obj\Debug\netcoreapp3.1\Chapter12_SayingGUI.genruntimeconfig.cache

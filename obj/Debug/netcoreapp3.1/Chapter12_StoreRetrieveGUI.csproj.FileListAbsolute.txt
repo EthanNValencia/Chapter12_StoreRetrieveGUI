@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.exe
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\bin\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter12_StoreRetrieveGUI\obj\Debug\netcoreapp3.1\Chapter12_StoreRetrieveGUI.genruntimeconfig.cache
